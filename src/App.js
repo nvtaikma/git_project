@@ -15,9 +15,15 @@ const App = () => {
   return (
     <div>
       {/* <AppProps /> */}
-      <PhoneHome />
+
+//    <PhoneHome />
       {/* <CarStore /> */}
+      {/* <PhoneHome /> */}
+
+//     <CarStore />
+
        {/* <CartRedux />   */}
+
       {/* <GameTaiXiu /> */}
       {/* <OanTuXi /> */}
       {/* <Bookingticket /> */}
