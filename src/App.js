@@ -16,7 +16,7 @@ const App = () => {
     <div>
       {/* <AppProps /> */}
       {/* <PhoneHome /> */}
-      {/* <CarStore /> */}
+      {/* <CarStore /> *
        <CartRedux />  
       {/* <GameTaiXiu /> */}
       {/* <OanTuXi /> */}
