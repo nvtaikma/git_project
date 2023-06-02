@@ -18,8 +18,8 @@ const App = () => {
       {/* <PhoneHome /> */}
       {/* <CarStore /> */}
        {/* <CartRedux />   */}
-      {/* <GameTaiXiu /> */}
-      <OanTuXi />
+      <GameTaiXiu />
+      {/* <OanTuXi /> */}
       {/* <Bookingticket /> */}
     </div>
   );
