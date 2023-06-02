@@ -19,8 +19,8 @@ const App = () => {
       {/* <CarStore /> */}
        {/* <CartRedux />   */}
       {/* <GameTaiXiu /> */}
-      {/* <OanTuXi /> */}
-      <Bookingticket />
+      <OanTuXi />
+      {/* <Bookingticket /> */}
     </div>
   );
 }
